@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "61e3a29f-f966-480b-a804-ae4225fdadc1",
+      "name": "Дмитро",
+      "number": "0742581245"
+    },
+    {
+      "id": "b5ee8a37-acfd-438f-aaa3-7b0b023fec79",
+      "name": "Nata",
+      "number": "0955270274"
+    }
+  ]
+}
